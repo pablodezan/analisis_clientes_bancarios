@@ -1,0 +1,1 @@
+SELECT * FROM banco_clientes.q_churn_por_pais;
